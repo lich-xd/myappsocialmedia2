@@ -1,0 +1,19 @@
+Thread: Iris 47
+First: Sun Nov 02 18:33:18 UTC 2025
+java.util.concurrent.CancellationException
+	at java.base/java.util.concurrent.ForkJoinTask.uncheckedThrow(ForkJoinTask.java:602)
+	at java.base/java.util.concurrent.ForkJoinTask.reportExecutionException(ForkJoinTask.java:582)
+	at java.base/java.util.concurrent.ForkJoinTask.get(ForkJoinTask.java:993)
+	at Iris-3.7.11-1.20.1-1.21.8.jar//com.volmit.iris.util.parallel.BurstExecutor.complete(BurstExecutor.java:108)
+	at Iris-3.7.11-1.20.1-1.21.8.jar//com.volmit.iris.util.mantle.Mantle.close(Mantle.java:395)
+	at Iris-3.7.11-1.20.1-1.21.8.jar//com.volmit.iris.engine.mantle.EngineMantle.close(EngineMantle.java:161)
+	at Iris-3.7.11-1.20.1-1.21.8.jar//com.volmit.iris.engine.IrisEngine.close(IrisEngine.java:434)
+	at Iris-3.7.11-1.20.1-1.21.8.jar//com.volmit.iris.engine.platform.BukkitChunkGenerator.lambda$close$8(BukkitChunkGenerator.java:316)
+	at Iris-3.7.11-1.20.1-1.21.8.jar//com.volmit.iris.engine.platform.BukkitChunkGenerator.lambda$withExclusiveControl$10(BukkitChunkGenerator.java:341)
+	at Iris-3.7.11-1.20.1-1.21.8.jar//com.volmit.iris.util.scheduling.J.lambda$a$1(J.java:81)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188)

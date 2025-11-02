@@ -1,0 +1,42 @@
+2025-11-02 18:24:13 [INFO]: Loading Overrides...
+2025-11-02 18:24:13 [INFO]: Loading World Types...
+2025-11-02 18:24:13 [INFO]: - World Type for 'world' set to 'NORMAL'
+2025-11-02 18:24:13 [INFO]: - World Type for 'world_nether' set to 'NETHER'
+2025-11-02 18:24:13 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
+2025-11-02 18:24:13 [INFO]: Loading Defaults...
+2025-11-02 18:24:13 [INFO]: Loading Custom Worlds...
+2025-11-02 18:24:13 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
+2025-11-02 18:24:13 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
+2025-11-02 18:24:13 [SEVERE]: The particle 'EXPLOSION_NORMAL' created a fatal error when loading particles! Your MC version isn't supported!
+2025-11-02 18:24:15 [INFO]: Database PLAYERS:Players configured and loaded!
+2025-11-02 18:24:15 [INFO]: Database COOLDOWN:world configured and loaded!
+2025-11-02 18:24:15 [INFO]: Database COOLDOWN:world_nether configured and loaded!
+2025-11-02 18:24:15 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
+2025-11-02 18:24:15 [INFO]: Database QUEUE:Queue configured and loaded!
+2025-11-02 18:24:15 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
+2025-11-02 18:24:15 [INFO]: Database COOLDOWN:lobby configured and loaded!
+2025-11-02 18:24:25 [INFO]: Attempting to queue up some more safe locations...
+2025-11-02 18:24:26 [WARNING]: Seems like the world `elpepe` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- elpepe: NETHER`
+2025-11-02 18:24:26 [INFO]: Queue position generated: id= default_elpepe, database_ID= 79, location= x: -291, y: 218, z: -247, world: elpepe
+2025-11-02 18:24:30 [INFO]: New world `elpepe` detected! Reloaded Databases!
+2025-11-02 18:24:30 [INFO]: Database PLAYERS:Players configured and loaded!
+2025-11-02 18:24:30 [INFO]: Database COOLDOWN:world configured and loaded!
+2025-11-02 18:24:30 [INFO]: Database COOLDOWN:world_nether configured and loaded!
+2025-11-02 18:24:30 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
+2025-11-02 18:24:30 [INFO]: Database COOLDOWN:lobby configured and loaded!
+2025-11-02 18:24:30 [INFO]: Database COOLDOWN:elpepe configured and loaded!
+2025-11-02 18:24:30 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
+2025-11-02 18:24:30 [INFO]: Database QUEUE:Queue configured and loaded!
+2025-11-02 18:25:20 [INFO]: Queue position generated: id= default_elpepe, database_ID= 80, location= x: -108, y: 167, z: -551, world: elpepe
+2025-11-02 18:27:09 [INFO]: Queue position generated: id= default_elpepe, database_ID= 81, location= x: 605, y: 134, z: 638, world: elpepe
+2025-11-02 18:29:49 [INFO]: Queue position generated: id= default_elpepe, database_ID= 82, location= x: -802, y: 169, z: -733, world: elpepe
+2025-11-02 18:29:55 [INFO]: Queue position generated: id= default_elpepe, database_ID= 83, location= x: -523, y: 237, z: 87, world: elpepe
+2025-11-02 18:30:04 [INFO]: Queue position generated: id= default_elpepe, database_ID= 84, location= x: -730, y: 178, z: -126, world: elpepe
+2025-11-02 18:30:46 [INFO]: Queue position generated: id= default_elpepe, database_ID= 85, location= x: 75, y: 83, z: 986, world: elpepe
+2025-11-02 18:31:00 [INFO]: Queue position generated: id= default_elpepe, database_ID= 86, location= x: -821, y: 144, z: -587, world: elpepe
+2025-11-02 18:31:07 [INFO]: Queue position generated: id= default_elpepe, database_ID= 87, location= x: -244, y: 125, z: 484, world: elpepe
+2025-11-02 18:31:16 [INFO]: Queue position generated: id= default_elpepe, database_ID= 88, location= x: -566, y: 191, z: -279, world: elpepe
+2025-11-02 18:32:06 [INFO]: Queue position generated: id= default_elpepe, database_ID= 89, location= x: -802, y: 225, z: 840, world: elpepe
+2025-11-02 18:32:28 [INFO]: Queue position generated: id= default_elpepe, database_ID= 90, location= x: 401, y: 207, z: -686, world: elpepe
+2025-11-02 18:32:49 [INFO]: Queue position generated: id= default_elpepe, database_ID= 91, location= x: -791, y: 202, z: -929, world: elpepe
+2025-11-02 18:33:09 [INFO]: Disabling BetterRTP v3.6.13

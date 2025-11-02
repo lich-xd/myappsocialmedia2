@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.171.239.111
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1762108379737
+  login: 1762108223665
+money: '0'
+last-account-name: ELbroSetre
+logoutlocation:
+  world: acc3ffa3-e636-472e-95f3-745801606299
+  world-name: world
+  x: -13.995691032888317
+  y: 68.0
+  z: 48.195274015605975
+  yaw: 71.6999740600586
+  pitch: 10.650002479553223
+lastlocation:
+  world: 64aa98b6-69d0-4a14-aa7c-db11f68c27b0
+  world-name: lobby
+  x: -76.59351261808821
+  y: 63.0
+  z: -78.43052449367123
+  yaw: -166.5004119873047
+  pitch: 31.799962997436523
+homes:
+  home:
+    world: c105515c-3b5f-4705-889a-c31293b1c761
+    world-name: lobby
+    x: 386.42753508004074
+    y: 63.0
+    z: -236.4771327548751
+    yaw: -51.90035629272461
+    pitch: 16.500051498413086

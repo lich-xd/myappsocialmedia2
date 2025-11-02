@@ -1,0 +1,205 @@
+angelchest-saveversion: 2
+uniqueId: bf32efc8-5c3a-4610-845d-0a7f16a1f7da
+suspend-countdowns-when-player-is-offline: false
+worldid: acc3ffa3-e636-472e-95f3-745801606299
+x: 13
+y: 71
+z: 68
+infinite: false
+owner: 3a8085d0-8b58-3f1b-b090-e94414a1f7ad
+isProtected: true
+secondsLeft: 577
+unlockIn: -1
+created: 1762108363749
+experience: 21
+levels: 0
+price: 0.0
+customblock:
+  entities: []
+  location:
+    worldid: acc3ffa3-e636-472e-95f3-745801606299
+    x: 13
+    y: 71
+    z: 68
+  id: minecraft:CHEST
+  originalBlockData: minecraft:short_grass
+deathCause:
+  damageCause: ENTITY_ATTACK
+  killer: ZOMBIE
+opened-by: []
+logfile: ELbroSetre_world_2025-11-02_18-32-43.log
+storageInv:
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4440
+  id: minecraft:rotten_flesh
+  count: 2
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4440
+  id: minecraft:beef
+  count: 4
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4440
+  id: minecraft:leather
+  count: 4
+  schema_version: 1
+- null
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4440
+  id: minecraft:charcoal
+  count: 2
+  schema_version: 1
+- null
+- null
+- null
+- null
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4440
+  id: minecraft:crafting_table
+  count: 1
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4440
+  id: minecraft:cobblestone
+  count: 61
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4440
+  id: minecraft:dark_oak_planks
+  count: 1
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4440
+  id: minecraft:sweet_berries
+  count: 3
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4440
+  id: minecraft:spruce_sapling
+  count: 2
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4440
+  id: minecraft:dirt
+  count: 23
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4440
+  id: minecraft:spruce_wood
+  count: 5
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4440
+  id: minecraft:leaf_litter
+  count: 9
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4440
+  id: minecraft:wheat_seeds
+  count: 2
+  schema_version: 1
+- null
+- null
+- null
+- null
+- null
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4440
+  id: minecraft:stone_axe
+  count: 1
+  components:
+    minecraft:damage: '11'
+  schema_version: 1
+- null
+- null
+- null
+- null
+- null
+- null
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4440
+  id: minecraft:porkchop
+  count: 5
+  schema_version: 1
+- null
+- null
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4440
+  id: minecraft:stone_pickaxe
+  count: 1
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4440
+  id: minecraft:stone_shovel
+  count: 1
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4440
+  id: minecraft:name_tag
+  count: 1
+  schema_version: 1
+armorInv:
+- null
+- null
+- null
+- null
+extraInv:
+- null
+- null
+- null
+overflowInv:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
